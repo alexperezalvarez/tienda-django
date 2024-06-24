@@ -1,1 +1,1 @@
-# tienda-django
+# Practica sena - Tienda con Django
